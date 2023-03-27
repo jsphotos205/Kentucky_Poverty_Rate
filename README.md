@@ -23,3 +23,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 * Pandas calculations
 * Seaborn Plots
 * Markdown and README
+
+### Further work to be done:
+
+Write a program where a user can input individual county data that feeds to the model for predictive analysis of choosen county.
