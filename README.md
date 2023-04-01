@@ -11,6 +11,7 @@ This project is written in **Python** and uses the following Python libraries in
 * [matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
 * [SciPy Stats](https://docs.scipy.org/doc/scipy/tutorial/stats.html)
+* [Sklearn](https://scikit-learn.org/stable/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
 
