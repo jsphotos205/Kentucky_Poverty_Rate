@@ -15,6 +15,8 @@ This project is written in **Python** and uses the following Python libraries in
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
 
+
+
 ### Steps for installation:
 
 From your terminal at your desired location within your file structure run:
@@ -32,6 +34,8 @@ Then activate newly created Anaconda enviroment:
 From the terminal while located in the folder of kentucky_poverty_rate run:
 
 `pip install -r requirements.txt`
+
+
 
 #### Code Kentucky Data Analysis 1 Project Requirements :
 
