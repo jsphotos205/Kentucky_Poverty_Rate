@@ -33,15 +33,26 @@ From the terminal while located in the folder of kentucky_poverty_rate run:
 
 `pip install -r requirements.txt`
 
+The user might run into issues installing `sklearn`, this can be resolved by using the following command to install it:
+
+`python 3 -m pip install scikit-learn`
+
 #### Code Kentucky Data Analysis 1 Project Requirements :
 
 * Standard Python data structures
 * Read in data from local .csv file
+  * Line 3
 * Clean data
+  * Line 5
 * Python functions
 * Pandas calculations
+  * Line 7
 * Seaborn Plots
+  * Line 9
 * Markdown and README
+
+
+Throughout kentucky_pov_ml.ipynb look to the markdown notes for further information on the code presented.
 
 ### Further work to be done:
 
