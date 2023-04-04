@@ -7,7 +7,6 @@ This is a predictive model that works with population, governmental transfers, a
 This project is written in **Python** and uses the following Python libraries installed:
 
 * [Pandas](https://pandas.pydata.org/)
-* [Numpy](https://numpy.org/)
 * [matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
 * [SciPy Stats](https://docs.scipy.org/doc/scipy/tutorial/stats.html)
@@ -50,7 +49,6 @@ The user might run into issues installing `sklearn`, this can be resolved by usi
 * Seaborn Plots
   * Line 9
 * Markdown and README
-
 
 Throughout kentucky_pov_ml.ipynb look to the markdown notes for further information on the code presented.
 
