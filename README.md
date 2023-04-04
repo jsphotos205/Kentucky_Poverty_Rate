@@ -1,4 +1,4 @@
-# Machine Learning Model for Kentucky Poverty Rate
+# Kentucky Poverty Rate Model
 
 This is a predictive model that works with population, governmental transfers, and employment data from the State of Kentucky to see if there are any tendencies for a county to be above or below the average poverty rate taken from 2003-2019.
 
